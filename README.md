@@ -1,4 +1,4 @@
-# Image Viewer Application
+# QS Dashboard
 
 This is a single-page application built with Next.js, Tailwind CSS, and Storybook.
 

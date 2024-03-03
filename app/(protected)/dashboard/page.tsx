@@ -10,7 +10,6 @@ import ProgressIndicator from "@/components/custom/progress-indicator";
 import SubNavbar from "@/components/custom/sub-navbar";
 
 export default async function Home() {
-  await new Promise((resolve) => setTimeout(resolve, 1000));
   return (
     <>
       <Container className="lg:!pl-4 max-w-full text-white -z-10 sm:!pl-12 sm:pr-4 !pr-0 !pl-12">

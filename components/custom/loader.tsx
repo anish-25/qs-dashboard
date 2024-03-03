@@ -4,7 +4,7 @@ export const Spinner = () => {
 };
 const Loader = () => {
   return (
-    <div className="fixed w-full h-full flex justify-center items-center">
+    <div className="fixed w-full h-[calc(100vh-64px)] flex justify-center items-center">
       <Spinner />
     </div>
   );

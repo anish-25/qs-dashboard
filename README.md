@@ -44,6 +44,8 @@ Follow these steps to run the application locally:
 
 5. Open your browser and visit `http://localhost:3000` to view the application.
 
+6. Hover on the sidebar and click on dashboard to see the ranking page.
+
 ## Viewing Components in Storybook
 
 Follow these steps to view and interact with components in Storybook:

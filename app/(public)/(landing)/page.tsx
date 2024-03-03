@@ -4,7 +4,6 @@ import Typography from "@/components/typography";
 import Image from "next/image";
 
 export default async function Home() {
-  await new Promise((resolve) => setTimeout(resolve, 1000));
   return (
     <>
       <Container className="lg:!pl-4 max-w-full text-primary -z-10 sm:!pl-12 sm:pr-4 !pr-0 !pl-12">
